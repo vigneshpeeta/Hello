@@ -1,2 +1,2 @@
 ## Movie Ticket Booking System Using MERN
-iam iron man
+i am iron man
